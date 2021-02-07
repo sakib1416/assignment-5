@@ -1,0 +1,29 @@
+h1{
+    color: rebeccapurple;
+}
+#meals {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.meal{
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+}
+
+.meal img {
+    width: 100%;
+}
+
+#mealDetail {
+    width: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+#mealDetail img {
+    width: 100%;
+}
