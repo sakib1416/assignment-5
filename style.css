@@ -6,7 +6,7 @@ h1{
     grid-template-columns: repeat(4, 1fr);
 }
 .meal{
-    border: 1px solid red;
+    border: 1px solid gray;
     border-radius: 20px;
     padding: 30px;
     text-align: center;
